@@ -1,2 +1,3 @@
-# AVR_Atmega32_Drivers
-In this repo i will upload all Atmega32 drivers
+# AVR_Projects
+In this repo i will upload some AVR projects
+
